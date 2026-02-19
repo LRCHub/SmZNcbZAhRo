@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Denied（feat. Bonbero）",
+  "base_artist": "Kohjiya",
+  "createdAt": "2026-02-19T13:54:48.908798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Refuse To Be Denied (feat. Anthony Martini)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/01_Refuse_To_Be_Denied_(feat._Anthony_Martini)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Access Denied (feat. Ari Lennox)",
+      "artist": "Lucky Daye feat. Ari Lennox",
+      "has_synced": true,
+      "path": "select/02_Access_Denied_(feat._Ari_Lennox)_Lucky_Daye_feat._Ari_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Access Denied (feat. Ari Lennox)",
+      "artist": "Lucky Daye",
+      "has_synced": true,
+      "path": "select/03_Access_Denied_(feat._Ari_Lennox)_Lucky_Daye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Denied (feat. Sango)",
+      "artist": "Anik Khan",
+      "has_synced": true,
+      "path": "select/04_Denied_(feat._Sango)_Anik_Khan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Access Denied (Feat. Tech N9ne & King Gordy)",
+      "artist": "Project: Deadman",
+      "has_synced": false,
+      "path": "select/05_Access_Denied_(Feat._Tech_N9ne_&_King_Gordy)_Project__Deadman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Denied feat. Bonbero",
+      "artist": "Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_Denied_feat._Bonbero_Kohjiya.txt"
+    }
+  ]
+}
