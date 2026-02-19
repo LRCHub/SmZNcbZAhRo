@@ -1,0 +1,62 @@
+# Kohjiya – Denied（feat. Bonbero）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+君の耳にある1カラット
+他のgemsより光る俺のアート
+深く被るValladのハット
+8PM, 走るTrucks＆bucks
+Denied
+21 まだ走ってるアニメ
+Money motivate it
+金稼ぐ裸足で
+俺はしない
+No no lie
+No pop pills, nah
+昔のバ先の子が俺にhit me up
+あの子がkissing me
+ベッドは隣に
+夜景眺める2時
+あいつらは必死
+上がるpriceとかtax
+今何階?
+フランク三浦のdice 振るdice
+ひたすら走るnight
+過去には居場所はない
+目指すミンクのファー
+まだ続くドラマ
+この街にいる
+17
+未だ夢を見る
+地元に帰って仲間と歌う夜に
+集めてた金が変わる夜に
+俺のフローで街が変わる夜に
+君の耳にある1カラット
+他のgemsより光る俺のアート
+深く被るValladのハット
+8PM, 走るTrucks＆bucks
+Denied
+数あるJewelry から1つをChoice
+過去に居場所なんてねえ塞いだノイズ
+17 夢を見る 今買う18k
+KJと走り切る 此処は第二レーン
+Yeah 走る8pm
+揺れるBody靡く髪Cravin like DaniLeigh
+フォルダには残らないドラマyeah
+嵩むATM
+形見のネックレスの上Our Legacey
+あの時に取るゲスト 今もNo regrets
+霞んで見えてた街の景色やらTax
+組み立て直すフラットなテトリス
+Okay 2024
+時が過ぎても尚未だ彷徨う
+奴は夢中に追うケツとファボ
+I'm Busy I'm Busy
+俺のFlowで街が変わる今日
+君の耳にある1カラット
+他のgemsより光る俺のアート
+深く被るValladのハット
+8PM, 走るTrucks＆bucks
+Denied
+```
